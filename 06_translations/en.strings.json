@@ -1,0 +1,12 @@
+{
+  "requirement.req_id.label": "Requirement ID",
+  "requirement.req_name.label": "Requirement Title",
+  "requirement.req_type.label": "Requirement Type",
+  "requirement.req_status.label": "Lifecycle Status",
+  "requirement.requirement_count.label": "Total Requirements",
+  "requirement.approval_rate.label": "Approval Rate",
+  "safety.req_asil.label": "ASIL Rating",
+  "safety.asil_d_count.label": "ASIL D Count",
+  "ownership.req_domain.label": "Engineering Domain",
+  "project.req_vehicle_project.label": "Vehicle Project Name"
+}
